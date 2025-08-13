@@ -1,0 +1,25 @@
+name: dressup_game
+description: Simple dress-up game for kids (Flutter + Flame)
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flame: ^1.17.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/base/
+    - assets/hair/
+    - assets/dress/
+    - assets/shoes/
+    - assets/earrings/

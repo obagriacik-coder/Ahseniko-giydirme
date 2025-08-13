@@ -1,0 +1,18 @@
+{
+  "hair": [
+    "hair_1.png",
+    "hair_2.png"
+  ],
+  "dress": [
+    "dress_1.png",
+    "dress_2.png"
+  ],
+  "shoes": [
+    "shoes_1.png",
+    "shoes_2.png"
+  ],
+  "earrings": [
+    "earrings_1.png",
+    "earrings_2.png"
+  ]
+}
